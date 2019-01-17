@@ -12,6 +12,7 @@ namespace ConsoleApp5
             int sum = i + j;
             Console.WriteLine(sum);
             // dddd
+            int k = 9;
         }
     }
 }
