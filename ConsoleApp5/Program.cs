@@ -13,6 +13,7 @@ namespace ConsoleApp5
             Console.WriteLine(sum);
             // dddd
             int k = 9;
+            int max = 9;
         }
     }
 }
